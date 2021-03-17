@@ -2285,21 +2285,21 @@ fieldset[disabled] a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #3aa4c2;
+  border-color: #3aa4c2;
 }
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #3aa4c2;
+  border-color: #3aa4c2;
 }
 .btn-primary:active,
 .btn-primary.active,
 .open > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #3aa4c2;
+  border-color: #3aa4c2;
   background-image: none;
 }
 .btn-primary:active:hover,
@@ -2432,21 +2432,21 @@ fieldset[disabled] a.btn {
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #3aa4c2;
+  border-color: #3aa4c2;
 }
 .btn-success:focus,
 .btn-success.focus {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #3aa4c2;
+  border-color: #3aa4c2;
 }
 .btn-success:active,
 .btn-success.active,
 .open > .btn-success.dropdown-toggle {
   color: #fff;
-  background-color: #449d44;
-  border-color: #419641;
+  background-color: #3aa4c2;
+  border-color: #3aa4c2;
   background-image: none;
 }
 .btn-success:active:hover,
@@ -4161,14 +4161,14 @@ a.tag:hover {
 }
 .tag-primary[href]:focus,
 .tag-primary[href]:hover {
-  background-color: #449d44;
+  background-color: #3aa4c2;
 }
 .tag-success {
   background-color: #3aa4c2;
 }
 .tag-success[href]:focus,
 .tag-success[href]:hover {
-  background-color: #449d44;
+  background-color: #3aa4c2;
 }
 .tag-info {
   background-color: #5bc0de;
@@ -5304,7 +5304,7 @@ button.close {
 }
 a.bg-primary:focus,
 a.bg-primary:hover {
-  background-color: #449d44 !important;
+  background-color: #3aa4c2 !important;
 }
 .bg-success {
   color: #fff !important;
@@ -5312,7 +5312,7 @@ a.bg-primary:hover {
 }
 a.bg-success:focus,
 a.bg-success:hover {
-  background-color: #449d44 !important;
+  background-color: #3aa4c2 !important;
 }
 .bg-info {
   color: #fff !important;
@@ -5704,14 +5704,14 @@ a.text-muted:hover {
 }
 a.text-primary:focus,
 a.text-primary:hover {
-  color: #449d44;
+  color: #3aa4c2;
 }
 .text-success {
   color: #3aa4c2 !important;
 }
 a.text-success:focus,
 a.text-success:hover {
-  color: #449d44;
+  color: #3aa4c2;
 }
 .text-info {
   color: #5bc0de !important;
